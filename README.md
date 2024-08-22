@@ -1,6 +1,6 @@
 Project that demonstrates a bug in Webpack when targetting `webworker`.
 
-Run `npm install`, then run `npm start`.
+Run `npm install`, then run `npm start`. Go to http://locahost:9000.
 
 This project's has the following entry points, all of which should print `hey from <entry point name>` when loaded:
 
